@@ -1,0 +1,17 @@
+/Users/meysamresan/Projects/LW1/LW1/bin/Debug/net6.0/LW1
+/Users/meysamresan/Projects/LW1/LW1/bin/Debug/net6.0/LW1.deps.json
+/Users/meysamresan/Projects/LW1/LW1/bin/Debug/net6.0/LW1.runtimeconfig.json
+/Users/meysamresan/Projects/LW1/LW1/bin/Debug/net6.0/LW1.dll
+/Users/meysamresan/Projects/LW1/LW1/bin/Debug/net6.0/LW1.pdb
+/Users/meysamresan/Projects/LW1/LW1/obj/Debug/net6.0/LW1.csproj.AssemblyReference.cache
+/Users/meysamresan/Projects/LW1/LW1/obj/Debug/net6.0/LW1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meysamresan/Projects/LW1/LW1/obj/Debug/net6.0/LW1.AssemblyInfoInputs.cache
+/Users/meysamresan/Projects/LW1/LW1/obj/Debug/net6.0/LW1.AssemblyInfo.cs
+/Users/meysamresan/Projects/LW1/LW1/obj/Debug/net6.0/LW1.csproj.CoreCompileInputs.cache
+/Users/meysamresan/Projects/LW1/LW1/obj/Debug/net6.0/LW1.dll
+/Users/meysamresan/Projects/LW1/LW1/obj/Debug/net6.0/refint/LW1.dll
+/Users/meysamresan/Projects/LW1/LW1/obj/Debug/net6.0/LW1.pdb
+/Users/meysamresan/Projects/LW1/LW1/obj/Debug/net6.0/LW1.genruntimeconfig.cache
+/Users/meysamresan/Projects/LW1/LW1/obj/Debug/net6.0/ref/LW1.dll
+/Users/meysamresan/Projects/LW1/LW1/bin/Debug/net6.0/nunit.framework.dll
+/Users/meysamresan/Projects/LW1/LW1/obj/Debug/net6.0/LW1.csproj.CopyComplete
